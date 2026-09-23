@@ -1,11 +1,12 @@
 import './App.css'
+import Product from "./Pages/Product.jsx"
 
 function App() {
 
 
   return (
     <>
-     Frontend staarted
+    <Product/>
     </>
   )
 }
